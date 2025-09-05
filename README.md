@@ -21,7 +21,7 @@ To analyze hospital operations data and provide insights into patient inflow/out
 - `Healthcare_Project_Report.pdf` → Summary & visuals
 
 ## Sample Visual
-
+![Dashboard Demo](Hospital_Summary/https://github.com/PrabuddhaBand/Healthcare_Analytics_Dashboard/blob/main/Hospital_Summary.png)
 
 ## 🚀 Outcome
 The dashboard enables hospital management to monitor KPIs in real-time and make data-driven staffing and financial decisions.
