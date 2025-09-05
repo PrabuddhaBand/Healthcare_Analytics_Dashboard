@@ -18,7 +18,10 @@ To analyze hospital operations data and provide insights into patient inflow/out
 ## 📂 Files
 - `Healthcare_Dashboard.pbix` → Power BI dashboard  
 - `Hospital_Healthcare_Management_Dataset.xlsx` → Sample dataset  
-- `Healthcare_Project_Report.pdf` → Summary & visuals  
+- `Healthcare_Project_Report.pdf` → Summary & visuals
+
+## Sample Visual
+
 
 ## 🚀 Outcome
 The dashboard enables hospital management to monitor KPIs in real-time and make data-driven staffing and financial decisions.
